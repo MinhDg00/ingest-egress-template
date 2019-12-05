@@ -1,3 +1,4 @@
+# Read local file to SQL server
 
 library(RODBC)
 setwd("Working Directory")
