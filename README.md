@@ -5,3 +5,4 @@
         - Mount  ADLS Gen 2 to Databrick File Systems. Read data as Spark and pandas DataFrame
         - Write output back to ADLS Gen 2 with Spark and Python
         - Write output to SQL database
+  Note: (run the script on databricks or any environment which supports Spark) 
